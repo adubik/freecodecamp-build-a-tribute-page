@@ -1,0 +1,68 @@
+body {
+  margin:30px;
+  background: white;
+}
+.header {
+    font-family: Abril Fatface;
+    font-size: 70px;
+    color: black;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    background-color: #D6CBC8;
+    border-style: double;
+    border-width: 7px;
+  }
+
+h6.subheader {
+    font-family: Oswald;
+    font-size: 15px;
+    color: #FAF8F8;
+    margin-top: -105px;
+  }
+
+
+.main-text {
+    font-family: Oswald;
+    font-size: 14px;
+    font-weight: lighter;
+    color: #332d2c;
+  }
+
+.main-text .date {
+  font-weight: black;
+  font-size: 16px;
+  color: #0ff
+}
+
+footer img {
+    padding-top:5px;
+ }
+
+.header-image {
+    padding-top:60px;
+    padding-bottom: 50px;
+    max-width: 100%;
+    height: auto;
+    margin:auto;
+  }
+
+.hr-style13 {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+
+}
+
+.spotify {
+  padding-top: 20px;
+}
+
+ul {
+  text-align:left;
+}
+
+h6 {
+  padding-top:50px
+}
+
+
